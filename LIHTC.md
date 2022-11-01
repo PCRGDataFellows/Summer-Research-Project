@@ -20,4 +20,4 @@ These factors are analyzed with all LIHTC developments in Allegheny County but a
 
 [LIHTC By Development Age](https://pcrgdatafellows.github.io/Summer-Research-Project/LIHTC-By-Development-Age.html)
 
-[Research Project Home Page](https://pcrgdatafellows.github.io/Summer-Research-Project/.html)
+[Research Project Home Page](https://pcrgdatafellows.github.io/Summer-Research-Project.html)
