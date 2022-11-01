@@ -12,10 +12,12 @@ The goal of the LIHTC research project is to gain a better understanding of the 
 These factors are analyzed with all LIHTC developments in Allegheny County but also with LIHTC data subsets based on development type (studio, 1 br, 2 br, 3 br, or 4 br) and development age (1987-2009 and 2010-present).  
 
 ## Exploring the LIHTC Project
-[About the Data]
+[About the Data](https://pcrgdatafellows.github.io/Summer-Research-Project/About-the-Data.html)
 
-[All LIHTC Developments](https://Cblue19.github.io/Casaus-Portfolio/Part1.html)
+[All LIHTC Developments](https://pcrgdatafellows.github.io/Summer-Research-Project/All-LIHTC-Developments.html)
 
-[LIHTC By Development Type](https://Cblue19.github.io/Casaus-Portfolio/Part2.html)
+[LIHTC By Development Type](https://pcrgdatafellows.github.io/Summer-Research-Project/LIHTC-By-Development-Type.html)
 
-[LIHTC By Development Age](https://Cblue19.github.io/Casaus-Portfolio/Part3.html)
+[LIHTC By Development Age](https://pcrgdatafellows.github.io/Summer-Research-Project/LIHTC-By-Development-Age.html)
+
+[Research Project Home Page](https://pcrgdatafellows.github.io/Summer-Research-Project.html)
