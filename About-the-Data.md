@@ -29,13 +29,24 @@ The data for the LIHTC portion of the research project came from a variety of so
      
      
 5. Housing Market Value Analysis: https://data.wprdc.org/dataset/market-value-analysis-2021
-WPRDC
+
+      -Data collected
+      
+      -Source: Western Pennsylvania Regional Data Center
+      
+      
 6. Community Need Index: https://analytics.alleghenycounty.us/2021/05/13/allegheny-county-community-need-index/
-Data set from 2018
-Allegheny County Analytics
+
+      -Data set from 2018
+      
+      -Source: Allegheny County Analytics
+      
+      
 7. Housing Choice Vouchers: https://data.wprdc.org/dataset/housing-choice-vouchers-housing-authority-of-the-city-of-pittsburgh
-Data sets from 2018 - 2022
-WPRDC
+
+      -Data sets from 2018 - 2022
+      
+      -Source: Western Pennsylvania Regional Data Center
 
 
 [LIHTC Home Page](https://pcrgdatafellows.github.io/Summer-Research-Project/LIHTC.html)
