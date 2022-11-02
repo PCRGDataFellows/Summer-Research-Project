@@ -1,4 +1,6 @@
 # About the Data
+
+## Data Sources
 The data for the LIHTC portion of the research project came from a variety of sources:
 1. LIHTC: https://lihtc.huduser.gov/
 
@@ -47,6 +49,8 @@ The data for the LIHTC portion of the research project came from a variety of so
       -Data sets from 2018 - 2022
       
       -Source: Western Pennsylvania Regional Data Center
+
+## Discussion of Modifications to the Data
 
 
 [LIHTC Home Page](https://pcrgdatafellows.github.io/Summer-Research-Project/LIHTC.html)
